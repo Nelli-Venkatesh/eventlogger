@@ -13,7 +13,7 @@ module.exports.log = async function(foldername, data) {
       today.getFullYear().toString();
 
     let filename = filepath + today.getHours().toString() + ".txt";
-    let logPath = path.join(__dirname, "..", "logs", foldername, filepath);
+    let logPath = path.join(__dirname, "..","..", "logs", foldername, filepath);
 
     let finalfilepath = logPath + "\\" + filename;
 

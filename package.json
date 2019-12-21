@@ -1,6 +1,6 @@
 {
-  "name": "eventlogger",
-  "version": "1.0.0",
+  "name": "datalogger",
+  "version": "1.0.1",
   "description": "used to log the information into server",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,6 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "fs-extra": "^8.1.0"
-  }
+  },
+  "devDependencies": {}
 }
