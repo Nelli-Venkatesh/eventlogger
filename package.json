@@ -1,0 +1,24 @@
+{
+  "name": "eventlogger",
+  "version": "1.0.0",
+  "description": "used to log the information into server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelli-Venkatesh/eventlogger.git"
+  },
+  "keywords": [
+    "logger",
+    "events",
+    "files"
+  ],
+  "author": "Nelli Venkatesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelli-Venkatesh/eventlogger/issues"
+  },
+  "homepage": "https://github.com/Nelli-Venkatesh/eventlogger#readme"
+}
