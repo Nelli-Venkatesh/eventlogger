@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Nelli-Venkatesh/eventlogger/issues"
   },
-  "homepage": "https://github.com/Nelli-Venkatesh/eventlogger#readme"
+  "homepage": "https://github.com/Nelli-Venkatesh/eventlogger#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs-extra": "^8.1.0"
+  }
 }
